@@ -1,5 +1,6 @@
 # Developing with h4!
-![](h4.gif)
+
+![](h4-working.gif)
 
 
 
