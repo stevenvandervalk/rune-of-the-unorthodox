@@ -5,6 +5,25 @@
         "autocover"
     ],
     "pluginsConfig": {
+         "autocover": {
+            // Configuration for autocover (see below)
+    
+            "title": "Rune of the Unorthodox",
+            "author": "maen and shaka",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+
+        },
         "addcssjs": {
             "js": [
                 "js/pgn4web.min.js"
