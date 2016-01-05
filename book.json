@@ -1,14 +1,17 @@
 {
     "plugins": [
         "youtube",
-        "addcssjs"
+        "addcssjs",
+        "autocover"
     ],
-    "pluginsConfig": 
-    {
-        "addcssjs": 
-        {
-            "js": ["js/pgn4web.min.js"],
-            "css": ["css/custom.css"]
+    "pluginsConfig": {
+        "addcssjs": {
+            "js": [
+                "js/pgn4web.min.js"
+            ],
+            "css": [
+                "css/custom.css"
+            ]
         }
     }
 }
