@@ -6,8 +6,7 @@
     ],
     "pluginsConfig": {
          "autocover": {
-            // Configuration for autocover (see below)
-    
+
             "title": "Rune of the Unorthodox",
             "author": "maen and shaka",
             "font": {
