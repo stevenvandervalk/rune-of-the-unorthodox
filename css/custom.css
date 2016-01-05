@@ -23,7 +23,7 @@ body {
 }
 
 div, span, table, tr, td {
-  font-family: 'pgn4web Liberation Sans', sans-serif; /* fixes IE9 body css issue */
+  font-family: 'Liberation Sans', sans-serif; /* fixes IE9 body css issue */
 }
 
 a.gamelist,
