@@ -3,5 +3,9 @@
         "youtube",
         "addcssjs"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "addcssjs": {
+            "js": ["js/pgn4web.min.js"],
+            "css": ["css/custom.css"]
+    }
 }
