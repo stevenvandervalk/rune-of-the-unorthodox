@@ -8,6 +8,7 @@
         "addcssjs": 
         {
             "js": ["js/pgn4web.min.js"],
+            "js": ["js/pgn.js"]
             "css": ["css/custom.css"]
         }
     }
