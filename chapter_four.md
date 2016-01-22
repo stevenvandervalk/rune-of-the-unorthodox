@@ -17,4 +17,17 @@ c6 9. h4 Bb4 10. O-O Bxc2 11. Nxf7 Kxf7 12. Qxc2 Qxd4+ { - }  13. Kh1 Bxc3 14.
 
 
 ![Novelty in the Gunderam](bf4-N.png)
-Bf4 { Rune Novelty!  Database wanted Rf4}   
+
+---
+
+And now Bf4!! { Rune Novelty!  Database wanted Rf4}
+
+---
+
+![](bf4-playhed.png)
+
+
+"Rf4 is boring and equal"  
+But Bf4 is unexpected and produces threats Black doesn't have time to coordinate.
+* g5 with discovered check 
+* Rd1 with tempo and control of the file and 7th rank
