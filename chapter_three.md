@@ -6,3 +6,13 @@
 If lifting is an option, then you lift.  More World championship saving ideas to follow.
 
 ## Horizontally too.
+
+
+### Budapest Lines
+
+Normal
+
+
+
+Topalov g5
+
