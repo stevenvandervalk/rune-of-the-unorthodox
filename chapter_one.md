@@ -1,5 +1,6 @@
-# Anything to Avoid a Drawish Position
+# Our personal brand is inconsistency, volatility, novelty-seeking.
 
+Also known as Anything to avoid a drawish position.
 Push, pull and something will move and in that space you can create.
 
 ## Finding the lines that Carlsen doesn't play
