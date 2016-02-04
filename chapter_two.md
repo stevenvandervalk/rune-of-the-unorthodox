@@ -8,3 +8,9 @@ Scotch is good but it could be so much better.
 Yes. It is true.
 
 
+## let them eat cake
+
+
+Playing the SChliemann is good for you. ivanchuk can do it. so can you
+
+play the d5 variation even though it might be horrible because it might be saucy.
