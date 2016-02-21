@@ -1,7 +1,8 @@
 {
     "plugins": [
         "youtube",
-        "addcssjs"
+        "addcssjs",
+        "responsive-iframes"
     ],
     "pluginsConfig": {}
 }
